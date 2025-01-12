@@ -64,7 +64,7 @@ class _WalletState extends State<Wallet> {
                         padding: EdgeInsets.only(bottom: 10.0),
                         child: Center(
                           child: Text(
-                            "Saldo",
+                            "Wallet",
                             style: AppWidget.HeadLineTextFeildStyle(),
                           ),
                         ),
